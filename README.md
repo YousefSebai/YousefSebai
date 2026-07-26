@@ -1,6 +1,6 @@
 # Hi there, I'm Yousef Sebai! 👋
 
-I'm a **Data Analyst** with a strong background in **SQL, Power BI, and Python**. Passionate about turning raw data into meaningful insights. 
+I'm a **Data Engineer** . 
 
 ---
 
